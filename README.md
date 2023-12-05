@@ -6,8 +6,13 @@ Diego Valle Jones. Principalmente en su limpieza realizada en este código: `htt
 más limpieza, pues nuestra meta era enfocar el proyecto a las alcaldías Álvaro Obregón y Benito Juárez. 
 ## Instrucciones para correr los códigos:
 Paso 0: Para correr los códigos puestos en este repo, primero hay que correr los `install.packages()` especificados en requirements.txt
+
 (Si no desea descargar los archivos de carpetas de investigación avance al Paso 3)
+
 Paso 1: Descargar los archivos de las carpetas de investigación 
+
 Paso 2: Correr el archivo filtradoAOBJ.R
+
 Paso 3: Correr el archivo app.R
+
 Paso final: Puede visualizar la aplicación en su web browser o en el link dejado en la descripción de este repositorio. 
