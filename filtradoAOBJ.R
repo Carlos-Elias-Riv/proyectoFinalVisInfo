@@ -4,7 +4,7 @@ library(units)
 
 library(stringr)
 
-crimenes1623 <- read.csv('/Users/cerivera/Downloads/carpetasFGJ.csv')
+crimenes1623 <- read.csv('carpetasFGJ.csv')
 
 ## vamos a hacer la limpieza qeu aplicó diego valle para que todos los datos
 ## nos sean iguales a los de él
